@@ -1,0 +1,35 @@
+#mspeed {
+
+    -fx-background-radius: 5%;
+     -fx-font: 16px "Avenir";
+     -fx-padding: 10;
+     -fx-text-align: right;
+}
+
+
+#btnInGame {
+    -fx-background-color: #A01621;
+     -fx-background-radius:50%;
+   }
+
+
+#btnInGame:hover {
+   -fx-background-radius: 50%;
+   -fx-background-color: #C71922;
+   }
+   #speedSlider .axis{
+   -fx-tick-label-fill: white;
+   }
+
+
+@font-face{
+    font-family: 'Cracked Code';
+    font-style: normal;
+    font-weight: normal;
+    src: url('Cracked%20Code.ttf'):
+    }
+    #textStuff {
+    -fx-font-family: "Cracked Code";
+    -fx-font-size: 16px;
+    -fx-padding: 10;
+    }

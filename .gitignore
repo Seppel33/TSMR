@@ -1,0 +1,13 @@
+
+*.class
+.idea/workspace.xml
+TSMR.iml
+out/production/TSMR/gui/inGameStyle.css
+out/production/TSMR/gui/stylesheet.css
+.idea/workspace.xml
+TSMR.iml
+out/production/TSMR/META-INF/TSMR.kotlin_module
+.idea/vcs.xml
+.idea/misc.xml
+.idea/encodings.xml
+.idea/compiler.xml

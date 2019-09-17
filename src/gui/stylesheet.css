@@ -1,0 +1,31 @@
+
+    #menuButtons {
+    -fx-font-family: "Avenir";
+    -fx-font-size: 22px;
+    -fx-padding: 10;
+    -fx-background-color: #2D0A27;
+    -fx-background-radius: 27px;
+    }
+    #menuButtons:hover {
+       -fx-background-radius: 27px;
+       -fx-background-color: #600E34;
+    }
+    #menuButtonsText{
+    -fx-fill: #ffffff;
+    }
+
+    #aboutUsText {
+     -fx-font-family: "Avenir";
+     -fx-font-size: 22px;
+     -fx-padding: 50;
+     -fx-fill: #ffffff;
+
+     }
+     #exit {
+         -fx-background-color: #A01621;
+          -fx-background-radius:50%;
+        }
+     #exit:hover {
+        -fx-background-radius: 50%;
+        -fx-background-color: #C71922;
+        }
